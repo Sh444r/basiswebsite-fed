@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Rhode Home
-  <img src="![Home](readme-images/rhode-home.png)" width="375px" alt="home-pagina">
+  <img src="readme-images/rhode-home.png" width="375px" alt="home-pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Rhode Future 
-  <img src="![Future](readme-images/rhode-future.png)" width="375px" alt="pagina-2">
+  <img src="readme-images/rhode-future.png" width="375px" alt="pagina-2">
  
 </details>
 
