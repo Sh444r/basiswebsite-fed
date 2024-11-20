@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.gucci.com/nl/en_gb/
+  https://www.rhodeskin.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Gucci 
-  <img src="![Alt text](readme-images/guccihome-screenshot.PNG)" width="375px" alt="home-pagina">
+  Rhode Home
+  <img src="![Home](readme-images/rhode-home.png)" width="375px" alt="home-pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="![Alt text](readme-images/gucci-screenshot.PNG)" width="375px" alt="pagina-2">
+  Rhode Future 
+  <img src="![Future](readme-images/rhode-future.png)" width="375px" alt="pagina-2">
  
 </details>
 
