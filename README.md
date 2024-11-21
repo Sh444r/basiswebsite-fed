@@ -89,16 +89,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik had eerst de website Gucci gekozen, alleen wou ik toch wel een andere site kiezen en dat is Rhode Skin geworden. Vandaar dat ik nog niet de toegankelijksheidstest heb kunnen doen. Die ben ik wel van plan om z.s.m. te doen. 
+  De eerste html pagina maken van de website ide ik wil namaken ging wel goed. Ik heb voornamelijk alleen de basics erin gezet, maar dan zonder img. Daarnaast heb ik ook breakdownschetsen gemaakt van de eerste pagina en het menu deel. Echter, kwam ik tijdens het voortgangsgesprek achter dat de tweede breakdownschets over de tweede pagina moet zijn, die ik wil namaken van de website. 
+  De stof is best te doen, maar wel wat lastig, omdat ik er weer in moet komen maar met oefenen en de opdrachten maken zal het wel lukken. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Alyaman        | Sharlainie         | Maaike       | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | dit bespreken  | Opzet van mijn code| en ik dit    | en dan ik dat    |
+  | en dat ook nog | -                  | nog een punt | dit wil ik zeker |
+  | ...            | -                  | ...          | ...              |
 
 
   ### Verslag van meeting
