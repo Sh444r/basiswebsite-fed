@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ik begin met de startniveau blauw, maar wil gaandeweg in het vak naar het niveau rood werken.
 
   #### Je focus:
-  Responsive
+  Surface Plane
  
 </details>
 
@@ -82,7 +82,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Voortgang 1 (week 2)
+## Voortgang 1 (week 2) 
 
 <details>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
