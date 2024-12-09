@@ -8,12 +8,10 @@ const items = document.querySelectorAll('.carousel1-items li');
 
 dots.forEach((dot, index) => {
     dot.addEventListener('click', () => {
-        // Reset active class on dots
         dots.forEach(d => d.classList.remove('active'));
         dot.classList.add('active');
 
-        // Dit stukje code wss weglaten want met dit code is het niet de zichtbare goede volgorde
-        // items.forEach(item => item.style.display = 'block');
+
 
 
         const selectedItem = items[index];
@@ -21,23 +19,6 @@ dots.forEach((dot, index) => {
     });
 });
 
-//  NAVGIATIE BOLLETJES VOOR CAROUSEL 2
-
-// const dots = document.querySelectorAll('.dot');
-// const items = document.querySelectorAll('.carousel2-items li');
-
-// dots.forEach((dot, index) => {
-//     dot.addEventListener('click', () => {
-//         // Maak alle bolletjes inactief
-//         dots.forEach(dot => dot.classList.remove('active'));
-
-//         // Activeer het geselecteerde bolletje
-//         dot.classList.add('active');
-
-//         // Scroll naar het bijbehorende item
-//         items[index].scrollIntoView({ behavior: 'smooth', inline: 'center' });
-//     });
-// });
 
 // CODEPEN CAROUSEL CODE
 
