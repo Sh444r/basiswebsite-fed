@@ -58,6 +58,40 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  Content
+- Gebruikt duidelijke taal en vermijdt figuurlijke taal etc.
+- Knoppen, a, label content is uniek en beschrijvend.
+
+Global Code
+- HTML is wel gevalideerd
+- Gebruikt wel lang attribute 
+- Maakt ook gebruik van een unieke titel voor elk pagina.
+- Viewport is niet uitschakelt.
+
+Keyboard
+- Screenreader is prima te gebruiken met de site. Moet wel door veel content en tekst heen gaan. Met muis is de screenreader wel gemakkelijk te gebruiken, beter dan met toetsenbord.
+
+Mobile and touch
+- Horizontaal scrollen weghalen werkt niet goed. 
+- De button en link icoontjes kunnen geactiveerd worden met gemak. 
+- Moet door veel content gaan dus kan moeilijk zijn om met screenreader te navigeren door de site. Vooral met bijv. de tekst animaties in bepaalde sections omdat het dan elk stukje tekst opnieuw moet lezen.
+
+Headings
+- Screenreader werkt goed met de headers. Het vertelt wel welk stukje het is van de website. 
+- Maakt ook gebruik van h1 element per pagina.
+
+Lists
+- Niet duidelijk met de screenreader…
+
+Images
+- Afbeeldingen hebben ook beschrijven dus gebruiker weet goed wat voor afbeelding op de site wordt afgebeeld doordat screenreader het opleest.
+
+Media
+- Media maakt gebruik van autoplay
+- Geeft niet goede beschrijving van video’s
+
+Controls
+- Linkjes hebben goede beschrijving voor screenreader. 
 </details>
 
 
